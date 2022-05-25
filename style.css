@@ -1,0 +1,23 @@
+h1 {
+
+background: #000;
+color:rgba(100, 175, 29, 0.658)
+
+}
+
+a {
+
+background: seagreen;
+color:white;
+font-size: 30px;
+
+}
+
+div {
+
+background: #aaa;
+width: 140px;
+height: 20px;
+padding: 10px;
+
+}
